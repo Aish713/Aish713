@@ -8,10 +8,8 @@
 ---
 
 ### 💜 About Me:
-- 🎓 Still a baby octopus in the tech ocean   
-- 🌱 Grow slowly but surely — like baby coral
-- 🌊 Currently swimming through SAP ABAP
-- 🤔 I love solving problems and thinking outside the box  
+- 🎓 Interested in learning AI.
+- 🌱 Currently learning SAP ABAP.
 - 🐙 Slightly obsessed with octopuses (they're smart and cool like tech 😎)
 - 🦑 I believe learning should be fun, colorful, and weird (like octopuses)
 
@@ -23,8 +21,7 @@
 ---
 
 ### 💌 Let’s be OctoFriends:
-- 🌐 [Portfolio (soon)](https://yourportfolio.com)  
-- 💬 Ask me about anything, I'm always up to chat!  
+- 🌐 [Portfolio (soon)](https://yourportfolio.com)   
 - 🐙 Random fact: Octopuses have *three hearts*, *nine brains*, and zero chill 🌀
 
 ---
